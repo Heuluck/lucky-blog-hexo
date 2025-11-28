@@ -1,38 +1,9 @@
 ---
-title: Hello World
+title: 你好啊，世界！
+date: 2025-11-28 00:23:50
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+第一次上手 Hexo，感觉良好......不过说不定哪天就转投 Hugo 了，或者两个一起用（反正文章不多）
 
-## Quick Start
+第一次写博客用的是 Wordpress，中间用过一段时间 MediaWiki，事实证明 MediaWiki 确实不适合做博客。后来越发觉得还是静态页面生成器更香，调研了 VitePress、Hugo、Hexo 后最终选择了 node 技术栈的 Hexo（VitePress 还是太文档了）。
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+下一步就是给 Hexo 整一个好看的主题？
