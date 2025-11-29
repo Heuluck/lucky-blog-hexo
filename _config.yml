@@ -8,7 +8,7 @@ subtitle: 'Heuluck的船新Blog'
 description: ''
 keywords:
 author: Heuluck
-language: zh-cn
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -96,7 +96,32 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+theme_config: 
+  creative_commons:
+    license: by-nc-sa
+    size: small
+    sidebar: true
+    post: false
+    language: deed.zh-hans
+  favicon:
+    small: /favicon/favicon.ico
+    medium: /favicon/favicon-96x96.png
+    apple_touch_icon: /favicon/apple-touch-icon.png
+    safari_pinned_tab: /favicon/favicon.svg
+  social:
+    GitHub: https://github.com/heuluck || fab fa-github
+  sidebar:
+    display: always
+
+  links_settings:
+    icon: fa fa-link
+    # Available values: block | inline
+    layout: block
+  links:
+    "Blog of Wr": https://wrye.dev/
+    "头头咖啡屋": https://titoxd.top/
+    "雏绒的博客": https://asadz.cc/
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
