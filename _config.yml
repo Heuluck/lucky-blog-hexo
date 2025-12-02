@@ -98,6 +98,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 theme_config: 
+  scheme: Pisces
   creative_commons:
     license: by-nc-sa
     size: small
@@ -122,6 +123,13 @@ theme_config:
     "Blog of Wr": https://wrye.dev/
     "头头咖啡屋": https://titoxd.top/
     "雏绒的博客": https://asadz.cc/
+  motion:
+    enable: false
+  footer:
+    since: 2021
+    powered: false
+    icon:
+      color: '#999'
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
