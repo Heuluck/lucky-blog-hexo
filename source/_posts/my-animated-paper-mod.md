@@ -2,7 +2,7 @@
 date : '2025-12-03T23:18:46+08:00'
 title : '还是给 Hugo-PaperMod 改了个动画效果'
 categories : 随记
-tags : 静态页面生成器, 主题, PaperMod, View Transition Api
+tags : ['静态页面生成器', '主题', 'PaperMod', 'View Transition Api']
 description : '昨天还说要换成 Astro，结果为了玩玩 View Transition Api，今天甚至给 PaperMod 做了动画效果！'
 ---
 > 等不及了，准备明天就到 Astro 上试试水😋。
