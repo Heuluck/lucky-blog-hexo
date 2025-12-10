@@ -120,7 +120,7 @@ theme_config:
     # Available values: block | inline
     layout: block
   links:
-    "My Hugo Blog": https://heuluck.dev/
+    "My Hugo Blog": https://hugo.heuluck.dev/
     "Blog of Wr": https://wrye.dev/
     "头头咖啡屋": https://titoxd.top/
     "雏绒的博客": https://asadz.cc/
