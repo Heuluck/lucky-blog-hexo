@@ -3,7 +3,7 @@ date : '2025-12-10T23:02:56+08:00'
 title : '准备试试 Astro'
 categories : 随记
 tags : ['静态页面生成器', 'Astro']
-description : '这次真的要试试 Astro 了！'
+description : '我这次真的要试试 Astro 了！'
 ---
 昨天鉴赏了一些博客页面，脑海里有了一个博客页面的雏形，现在准备动手实现它了。
 
