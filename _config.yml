@@ -122,7 +122,7 @@ theme_config:
   links:
     "My Hugo Blog": https://hugo.heuluck.dev/
     "Blog of Wr": https://wrye.dev/
-    "头头咖啡屋": https://titoxd.top/
+    "头头咖啡屋": https://tito.cafe/
     "雏绒的博客": https://asadz.cc/
   motion:
     enable: false
